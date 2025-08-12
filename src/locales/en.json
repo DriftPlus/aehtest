@@ -1,0 +1,25 @@
+{
+  "loading": "Loading…",
+  "labels": {
+    "language": "Language",
+    "testName": "Test name",
+    "userId": "Name/ID (optional)"
+  },
+  "placeholders": {
+    "userId": "e.g. driver ID"
+  },
+  "actions": {
+    "submit": "Submit",
+    "retry": "Take the test again"
+  },
+  "result": {
+    "title": "Result",
+    "score": "Score",
+    "pass": "PASS",
+    "fail": "FAIL",
+    "threshold": "threshold",
+    "review": "Review",
+    "yourAnswer": "Your answer",
+    "correctAnswer": "Correct answer"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "AEH Quiz",
+  "short_name": "AEH Quiz",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "AEH multilingual quiz module",
+  "icons": []
+}

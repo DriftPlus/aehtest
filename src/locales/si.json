@@ -1,0 +1,25 @@
+{
+  "loading": "පූරණය වෙමින්…",
+  "labels": {
+    "language": "භාෂාව",
+    "testName": "පරීක්ෂণের නාමය",
+    "userId": "නම/හැඳුනුම් (විකල්ප)"
+  },
+  "placeholders": {
+    "userId": "උදා. රියදුරු ID"
+  },
+  "actions": {
+    "submit": "යවන්න",
+    "retry": "නැවත පරීක්ෂා කරන්න"
+  },
+  "result": {
+    "title": "ප්‍රතිඵලය",
+    "score": "ලකුණු",
+    "pass": "ඉස්සර",
+    "fail": "අසමත්",
+    "threshold": "සීමාව",
+    "review": "සමාලෝචනය",
+    "yourAnswer": "ඔබේ පිළිතුර",
+    "correctAnswer": "හරි පිළිතුර"
+  }
+}

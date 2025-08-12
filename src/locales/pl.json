@@ -1,0 +1,25 @@
+{
+  "loading": "Ładowanie…",
+  "labels": {
+    "language": "Język",
+    "testName": "Nazwa testu",
+    "userId": "Imię/ID (opcjonalnie)"
+  },
+  "placeholders": {
+    "userId": "np. ID kierowcy"
+  },
+  "actions": {
+    "submit": "Zatwierdź",
+    "retry": "Powtórz test"
+  },
+  "result": {
+    "title": "Wynik",
+    "score": "Wynik",
+    "pass": "ZALICZONO",
+    "fail": "NIEZALICZONO",
+    "threshold": "próg",
+    "review": "Przegląd",
+    "yourAnswer": "Twoja odpowiedź",
+    "correctAnswer": "Prawidłowa odpowiedź"
+  }
+}

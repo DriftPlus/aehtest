@@ -1,0 +1,25 @@
+{
+  "loading": "Загрузка…",
+  "labels": {
+    "language": "Мова",
+    "testName": "Назва тэсту",
+    "userId": "Імя/ID (неабавязкова)"
+  },
+  "placeholders": {
+    "userId": "напрыклад, ID кіроўцы"
+  },
+  "actions": {
+    "submit": "Адправіць",
+    "retry": "Прайсці яшчэ раз"
+  },
+  "result": {
+    "title": "Вынік",
+    "score": "Ацэнка",
+    "pass": "ПРЫЙДЗЕНА",
+    "fail": "НЕ ПРЫЙДЗЕНА",
+    "threshold": "парог",
+    "review": "Агляд",
+    "yourAnswer": "Твой адказ",
+    "correctAnswer": "Правільны адказ"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "loading": "Naglo-load…",
+  "labels": {
+    "language": "Wika",
+    "testName": "Pangalan ng test",
+    "userId": "Pangalan/ID (opsyonal)"
+  },
+  "placeholders": {
+    "userId": "hal. driver ID"
+  },
+  "actions": {
+    "submit": "Isumite",
+    "retry": "Ulitin ang test"
+  },
+  "result": {
+    "title": "Resulta",
+    "score": "Iskor",
+    "pass": "LUMUSOT",
+    "fail": "BAGSak",
+    "threshold": "threshold",
+    "review": "Pagsusuri",
+    "yourAnswer": "Sagot mo",
+    "correctAnswer": "Tamang sagot"
+  }
+}

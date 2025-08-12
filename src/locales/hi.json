@@ -1,0 +1,25 @@
+{
+  "loading": "लोड हो रहा है…",
+  "labels": {
+    "language": "भाषा",
+    "testName": "टेस्ट का नाम",
+    "userId": "नाम/आईडी (वैकल्पिक)"
+  },
+  "placeholders": {
+    "userId": "जैसे ड्राइवर आईडी"
+  },
+  "actions": {
+    "submit": "सबमिट",
+    "retry": "टेस्ट दोबारा लें"
+  },
+  "result": {
+    "title": "परिणाम",
+    "score": "स्कोर",
+    "pass": "उत्तीर्ण",
+    "fail": "असफल",
+    "threshold": "सीमा",
+    "review": "समीक्षा",
+    "yourAnswer": "आपका उत्तर",
+    "correctAnswer": "सही उत्तर"
+  }
+}

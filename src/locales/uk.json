@@ -1,0 +1,25 @@
+{
+  "loading": "Завантаження…",
+  "labels": {
+    "language": "Мова",
+    "testName": "Назва тесту",
+    "userId": "Ім’я/ID (необов’язково)"
+  },
+  "placeholders": {
+    "userId": "наприклад, ID водія"
+  },
+  "actions": {
+    "submit": "Надіслати",
+    "retry": "Спробувати ще раз"
+  },
+  "result": {
+    "title": "Результат",
+    "score": "Бал",
+    "pass": "СКЛАДЕНО",
+    "fail": "НЕ СКЛАДЕНО",
+    "threshold": "поріг",
+    "review": "Огляд",
+    "yourAnswer": "Ваша відповідь",
+    "correctAnswer": "Правильна відповідь"
+  }
+}
